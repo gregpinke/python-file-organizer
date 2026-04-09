@@ -1,0 +1,22 @@
+$ python -m file_organizer.cli --source examples/sample_input --rules config/rules.json
+
+Scanning folder: examples/sample_input
+Loaded 31 file extension rules.
+
+Moved: invoice_march.pdf -> documents/
+Moved: invoice_april.pdf -> documents/
+Moved: notes.txt -> documents/
+Moved: holiday.jpg -> images/
+Moved: image_001.png -> images/
+Moved: budget.xlsx -> spreadsheets/
+Moved: data_export.csv -> data/
+Moved: archive.zip -> archives/
+Moved: song.mp3 -> audio/
+Moved: script.py -> code/
+
+Done.
+Processed 10 files.
+Moved 10 files.
+Skipped 0 files.
+Errors 0 files.
+Report written to: examples/sample_report.txt

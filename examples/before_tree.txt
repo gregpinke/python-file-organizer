@@ -1,0 +1,11 @@
+sample_input/
+├── invoice_march.pdf
+├── invoice_april.pdf
+├── notes.txt
+├── holiday.jpg
+├── image_001.png
+├── budget.xlsx
+├── data_export.csv
+├── archive.zip
+├── song.mp3
+└── script.py

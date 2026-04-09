@@ -1,0 +1,23 @@
+Python File Organizer Report
+============================
+Source folder: C:\Users\Ziloan\Desktop\Projects\python-file-organizer\examples\sample_input
+Output folder: C:\Users\Ziloan\Desktop\Projects\python-file-organizer\demo_output
+Mode: live
+Recursive scan: no
+
+Summary
+-------
+Processed files: 10
+Moved files: 10
+Skipped files: 0
+Errors: 0
+
+Category summary
+----------------
+archives: 1
+audio: 1
+code: 1
+data: 1
+documents: 3
+images: 2
+spreadsheets: 1
